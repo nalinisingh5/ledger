@@ -1,0 +1,9 @@
+{
+  "id" :"ef91bc10-cc0f-5456-b163-127ff6aa5a9e",
+  "ledgerType": "LOAN",
+  "bankName": "IDIDI",
+  "borrowerName": "Meghan",
+  "principalAmount": 48000,
+  "noOfYears": 2,
+  "rateOfInterest": 4
+}

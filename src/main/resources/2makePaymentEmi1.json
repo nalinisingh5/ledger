@@ -1,0 +1,8 @@
+{
+  "loanId": "c4e55503-4078-40b9-b242-5a78331e3bcc",
+  "ledgerType": "PAYMENT",
+  "bankName": "MBI",
+  "borrowerName": "Harry",
+  "lumpSumAmount": 36768.0,
+  "emiNo": 1
+}

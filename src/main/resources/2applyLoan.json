@@ -1,0 +1,9 @@
+{
+  "id": "c4e55503-4078-40b9-b242-5a78331e3bcc",
+  "ledgerType": "LOAN",
+  "bankName": "MBI",
+  "borrowerName": "Harry",
+  "principalAmount": 36000,
+  "noOfYears": 2,
+  "rateOfInterest": 2
+}
